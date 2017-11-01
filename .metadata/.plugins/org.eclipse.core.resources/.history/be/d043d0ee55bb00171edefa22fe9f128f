@@ -1,0 +1,5 @@
+package com.suhas.eventmanagement.controller;
+
+public class EventKickOffController {
+
+}

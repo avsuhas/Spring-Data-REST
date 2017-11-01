@@ -1,0 +1,33 @@
+package com.example.entities;
+
+public class School {
+	
+	private int schoolId;
+	private String schoolName;
+	private String userId;
+	public int getSchoolId() {
+		return schoolId;
+	}
+	public void setSchoolId(int schoolId) {
+		this.schoolId = schoolId;
+	}
+	public String getSchoolName() {
+		return schoolName;
+	}
+	public void setSchoolName(String schoolName) {
+		this.schoolName = schoolName;
+	}
+	public String getUserId() {
+		return userId;
+	}
+	public void setUserId(String userId) {
+		this.userId = userId;
+	}
+	@Override
+	public String toString() {
+		return "School [schoolId=" + schoolId + ", schoolName=" + schoolName + ", userId=" + userId + "]";
+	}
+	
+	
+
+}

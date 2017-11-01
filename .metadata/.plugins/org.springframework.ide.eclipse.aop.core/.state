@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<aop-reference-model>
+<aop-project name="gs-rest-service-complete"/>
+<aop-project name="userdetails-api-1"/>
+<aop-project name="gs-rest-service-initial"/>
+<aop-project name="eventmanagement-api"/>
+<aop-project name="employee-api"/>
+<aop-project name="user-api"/>
+</aop-reference-model>

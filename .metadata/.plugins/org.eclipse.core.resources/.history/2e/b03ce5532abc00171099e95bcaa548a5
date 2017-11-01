@@ -1,0 +1,13 @@
+package com.suhas.springdatarest;
+
+import org.springframework.boot.SpringApplication;
+
+
+
+
+public class HelloworldApplication {
+
+	public static void main(String[] args) {
+		SpringApplication.run(HelloworldApplication.class, args);
+	}
+}

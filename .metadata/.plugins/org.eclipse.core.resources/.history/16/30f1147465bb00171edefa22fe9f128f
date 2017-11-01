@@ -1,0 +1,5 @@
+package com.suhas.springdatarest.controllers;
+
+public class EventKickOffController {
+
+}

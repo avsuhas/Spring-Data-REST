@@ -1,0 +1,5 @@
+package com.suhas.springdatarest.entities;
+
+public class User {
+
+}

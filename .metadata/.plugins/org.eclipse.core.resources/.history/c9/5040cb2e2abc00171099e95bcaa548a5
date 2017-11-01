@@ -1,0 +1,10 @@
+package com.suhas.springdatarest;
+
+public class Example {
+	
+	String index() {
+		
+		return "hello world spring data";
+	}
+
+}
